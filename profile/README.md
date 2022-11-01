@@ -1,4 +1,4 @@
-![logo](../images/general_logo.png)
+![logo](/images/general_logo.png)
 # Triple Frequency Reference Station
 
 Here are the repositories for Senior Design 2022
